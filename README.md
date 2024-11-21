@@ -2,6 +2,7 @@
 TFG: "Simulación Numerica del modelo SEIQR. Aplicación a la pandemia de la Covid-19".
 
 Abstract:
+
 En este trabajo, se aborda el problema de formular modelos precisos que se ajusten a la
 realidad de la pandemia de la COVID-19. En primera instancia, se expone un primer modelo
 S-E-A-I-Q-R que incluye imposición de cuarentenas y distingue entre casos sintomáticos y asintomáticos,
