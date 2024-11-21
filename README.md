@@ -3,7 +3,7 @@ TFG: "Simulación Numerica del modelo SEIQR. Aplicación a la pandemia de la Cov
 
 Abstract:
 
-En este trabajo, se aborda el problema de formular modelos basados en ecuaciones diferenciales parciales precisos que se ajusten a la
+En este trabajo, se aborda el problema de formular modelos, basados en ecuaciones diferenciales parciales, precisos que se ajusten a la
 realidad de la pandemia de la COVID-19. En primera instancia, se expone un primer modelo
 S-E-A-I-Q-R que incluye imposición de cuarentenas y distingue entre casos sintomáticos y asintomáticos,
 después, se introduce un segundo modelo, más preciso, que también tiene en cuenta
