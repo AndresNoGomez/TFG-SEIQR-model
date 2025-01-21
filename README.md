@@ -15,7 +15,7 @@ segundo modelo en sus dos versiones, para la cual la plataforma **MATLAB** será
 esencial. **Se compararán los resultados obtenidos, y se analizará la estabilidad y sensibilidad de
 la solución ante cambios en los valores numéricos de ciertos parámetros.**
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 En este repositorio se encuentran los archivos que permiten la simulación numérica en MATLAB de los modelos S-E-A-I-Q-R con vacunaciones y retrasos en cuarentenas, y la realización de las gráficas que se discuten y comparan en la memoria del TFG. Los datos sobre la población y los valores de los parámetros se han extraido de las referencias bibliográficas detalladas en la memoria del trabajo, que también he subido al repositorio.
