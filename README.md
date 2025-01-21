@@ -1,5 +1,4 @@
-# TFG-SEIQR-model
-TFG: "Simulación Numerica del modelo SEIQR. Aplicación a la pandemia de la Covid-19".
+# "Simulación Numerica del modelo SEIQR. Aplicación a la pandemia de la Covid-19".
 
 Abstract:
 
