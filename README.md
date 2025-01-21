@@ -12,7 +12,7 @@ Después, se introduce un segundo modelo, más preciso, que también tiene en cu
 
 Finalmente, se procederá a la **simulación numérica** de los resultados ofrecidos por el
 segundo modelo en sus dos versiones, para la cual la plataforma **MATLAB** será una herramienta
-esencial. Se compararán los resultados obtenidos, y **se analizará la estabilidad y sensibilidad de
+esencial. **Se compararán los resultados obtenidos, y se analizará la estabilidad y sensibilidad de
 la solución ante cambios en los valores numéricos de ciertos parámetros.**
 
 
